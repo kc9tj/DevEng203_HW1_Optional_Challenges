@@ -1,0 +1,6 @@
+Encoding: UTF-8
+Package: Sample_Size
+Type: Package
+Title: Sample Size
+Version: 0.0.1.0
+RoxygenNote: 7.3.1
